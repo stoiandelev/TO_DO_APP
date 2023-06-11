@@ -1,6 +1,6 @@
 package com.example.to_do_app.config;
 
-import com.example.to_do_app.service.impl.LoadSeedDataService;
+import com.example.to_do_app.service.LoadSeedDataService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
