@@ -1,6 +1,6 @@
 # Welcome, to __TODO APP__ project!
 
-#Important -> change location to save PDF, before start the application!
+# Important -> change location to save PDF, before start the application!
 
 
 
