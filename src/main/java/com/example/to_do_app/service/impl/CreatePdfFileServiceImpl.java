@@ -28,7 +28,7 @@ public class CreatePdfFileServiceImpl implements CreatePdfFileService {
     @Override
     public void createPdf() {
 
-        //please change the path file!
+        //please change the path file(location)!
         String filePdfPath = "/Users/stoiandelev/Desktop/ToDo_PDF.pdf";
         try {
 
